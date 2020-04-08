@@ -1,0 +1,9 @@
+sed 's/.1//g' Homo_sapiens94 > Homo_sapiens94_1
+sed 's/.2//g' Homo_sapiens94_1 > Homo_sapiens94_2
+sed 's/.3//g' Homo_sapiens94_2 > Homo_sapiens94_3
+sed 's/.4//g' Homo_sapiens94_3 > Homo_sapiens94_4
+sed 's/.5//g' Homo_sapiens94_4 > Homo_sapiens94_5
+sed 's/.6//g' Homo_sapiens94_5 > Homo_sapiens94_6
+sed 's/.7//g' Homo_sapiens94_6 > Homo_sapiens94_7
+sed 's/.8//g' Homo_sapiens94_7 > Homo_sapiens94_8
+sed 's/.9//g' Homo_sapiens94_8 > Homo_sapiens94_9
